@@ -23,5 +23,5 @@ kotlin {
 }
 
 application {
-    mainClass.set("org.example.HelloKt")
+    mainClass.set("HelloKt")
 }
